@@ -1,3 +1,3 @@
 #!/usr/bin/python2.7
-import math.factoriel
+import math
 print(math.factorial(27))
