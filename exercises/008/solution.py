@@ -1,4 +1,4 @@
 #!/usr/bin/python2.7
-coco="Hello World !"
+coco = "Hello World !"
 for x in coco:
-	print(x)
+print(x)
